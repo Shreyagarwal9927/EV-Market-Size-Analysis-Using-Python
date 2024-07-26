@@ -4,9 +4,13 @@ Market size analysis is a crucial aspect of market research that determines the 
 The primary objective of this analysis is to leverage historical EV registration data to understand the current market penetration of EVs, predict future market growth, and identify key trends and factors driving market expansion. The specific goals include:
 
 Assess the historical growth trend of EV registrations.
+
 Forecast future EV registrations based on historical trends.
+
 Analyze the distribution of EV registrations across different models, makes, and geographical regions.
+
 Estimate the market size and growth potential of the EV market for upcoming years.
+
 Provide insights to support stakeholders in decision-making processes related to production, infrastructure planning, and policy formulation.
 
 
